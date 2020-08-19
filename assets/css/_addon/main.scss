@@ -1,8 +1,5 @@
 /*
 * The main styles.
-* v2.0
-* https://github.com/cotes2020/jekyll-theme-chirpy
-* © 2018-2019 Cotes Chung
 * MIT Licensed
 */
 
@@ -1513,4 +1510,10 @@ div.post-content .table-wrapper {
   #panel-wrapper {
     margin-left: 41px;
   }
+}
+
+/* MathJax setting */
+span.MJXc-display{
+  overflow-x: auto;
+  overflow-y: hidden;
 }
